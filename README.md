@@ -23,3 +23,5 @@ If the device hangs or stops responding:
 - Check the connections
 - Swap the TX and RX pins (some sensors may be labelled incorrectly)
 - Use the print statements in the US100.py file for debugging.  
+- If using an Expansion Board, make sure the TX and RX jumpers are being used. Removing them disables the second UART.
+
